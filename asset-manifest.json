@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/GAN-frontend/static/css/main.c4441d34.css",
+    "main.js": "/GAN-frontend/static/js/main.15839b40.js",
+    "static/js/787.bfbe4b11.chunk.js": "/GAN-frontend/static/js/787.bfbe4b11.chunk.js",
+    "static/media/fa-solid-900.ttf": "/GAN-frontend/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/GAN-frontend/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/GAN-frontend/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/GAN-frontend/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/bread.jpg": "/GAN-frontend/static/media/bread.c8eb9daf71f2b78446c4.jpg",
+    "static/media/pretzels.jpg": "/GAN-frontend/static/media/pretzels.47e2576d7e7648718da3.jpg",
+    "static/media/croissant.jpg": "/GAN-frontend/static/media/croissant.26ca6d8ec9523dac58f9.jpg",
+    "static/media/fa-regular-400.ttf": "/GAN-frontend/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/pastry.jpeg": "/GAN-frontend/static/media/pastry.63757335164b1c3cf230.jpeg",
+    "static/media/fa-regular-400.woff2": "/GAN-frontend/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/GAN-frontend/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/GAN-frontend/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "static/media/cart.svg": "/GAN-frontend/static/media/cart.6e81f55fca9950e2ff682b5edd8d4a4f.svg",
+    "index.html": "/GAN-frontend/index.html",
+    "static/media/numItems.svg": "/GAN-frontend/static/media/numItems.20ee255b0f1753aa2dd3037f4a52442a.svg",
+    "main.c4441d34.css.map": "/GAN-frontend/static/css/main.c4441d34.css.map",
+    "main.15839b40.js.map": "/GAN-frontend/static/js/main.15839b40.js.map",
+    "787.bfbe4b11.chunk.js.map": "/GAN-frontend/static/js/787.bfbe4b11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4441d34.css",
+    "static/js/main.15839b40.js"
+  ]
+}
