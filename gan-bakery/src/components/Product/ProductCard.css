@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap");
+:root {
+  --radius: 5px;
+  --padding: 10px;
+}
+
+.pc-container {
+  background-position: center;
+  background-size: "cover";
+  width: 300px;
+  height: 400px;
+  font-family: "Inter", sans-serif;
+  font-weight: 800;
+  color: white;
+  text-transform: uppercase;
+  font-size: 12px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 200ms ease-in;
+}
+
+.pc-container:hover {
+  transform: scale(1.02);
+}
+.pc-empty {
+    height: 100px !important;
+}
+.pc-content {
+  padding: 5% 5%;
+  background: #35cd8c;
+  opacity: 0.8;
+  border-radius: 0px 0px 20px 20px;
+  grid-area: content2;
+  display: flex;
+  flex-direction: column;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 0.2rem;
+  justify-content: center;
+  align-content: center;
+}
+.pc-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.pc-title {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 80%;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  margin: 0px !important;
+  color: #ffffff;
+}
+
+.pc-desc {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 171%;
+  display: flex;
+  text-transform: capitalize;
+  color: #ffffff;
+  margin: 0px !important;
+}
+
+.pc-change-btn {
+  grid-area: change-btn;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.pc-btn {
+  background: #ffffff;
+  border-radius: 100px;
+  border: #35cd8c;
+  height: 23px;
+  cursor: pointer;
+  transition: transform 200ms ease-in;
+}
+.pc-btn:hover {
+  transform: scale(1.05);
+}
+.pc-btn > span {
+  color: #35cd8c;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 8px;
+  line-height: 150%;
+  display: block;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+}
+
