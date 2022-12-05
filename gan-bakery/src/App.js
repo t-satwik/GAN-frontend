@@ -39,6 +39,7 @@ function App() {
     const newCartItems = [...cartItems];
     if (newCartItems[productID] <= 0) {
       alert('No items in cart');
+      return;
     }
     newCartItems[productID]--;
     setCartItems(newCartItems);
